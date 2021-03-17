@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "name": "TODO",
+    "description": "Task manager app",
+    "psr-4": {
+      "TaskManager\\": "app"
+    }
+  }
+}
